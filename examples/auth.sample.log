@@ -1,0 +1,3 @@
+Nov 06 09:10:00 demo sshd[100]: Failed password for invalid user guest from 203.0.113.10 port 50000 ssh2
+Nov 06 09:11:00 demo sshd[101]: Failed password for admin from 203.0.113.10 port 50001 ssh2
+Nov 06 09:15:00 demo sshd[102]: Accepted publickey for learner from 192.0.2.25 port 42000 ssh2
