@@ -2,6 +2,10 @@
 
 Ten independent, offline-first Python tools for reviewing files and configurations you own or are authorized to assess. They are designed for learning and defensive maintenance: no exploit code, credential harvesting, brute forcing, stealth, persistence, or remote scanning.
 
+## Download
+
+[Download the complete source as a ZIP](https://github.com/mohammed-mazgour/mazgour-defensive-toolkit/archive/refs/heads/main.zip). The archive includes the ten tools, individual guides, synthetic examples, a start guide, and the MIT license.
+
 ## Requirements
 
 - Python 3.10 or newer
